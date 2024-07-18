@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<pre>
 Currently working on 📝
     ➢ Image caption generator - To generate real time Image Captions
     ➢ Text summarization model - To generate summary of documents.
