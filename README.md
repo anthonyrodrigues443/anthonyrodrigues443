@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Smart Glasses Project](https://github.com/Sharkytony/Smart_glasses_project)
 
-- 🤝 I’m looking for help with [processing and display client webcam frames in streamlit](https://github.com/Sharkytony/Smart_glasses_project)
+- 🤝 I’m looking for help with [processing and displaying client webcam frames in streamlit](https://github.com/Sharkytony/Smart_glasses_project)
 
 - 📫 How to reach me **anthonyrodrigues443@gmail.com**
 
