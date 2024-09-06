@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkytony&label=Profile%20views&color=0e75b6&style=flat" alt="sharkytony" /> </p>
 
-- 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/Sharkytony/Machine-learning-projects/tree/main)
+- 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/Sharkytony/Machine-learning-projects/tree/main) 
 
 - 🌱 I’m currently learning Cloud computing **AWS**
 
