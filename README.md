@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Rodrigues</h1>
 <h3 align="center">An AI,ML and Data Science enthusiast</h3>
 
-- 🔭 I’m currently working on [Used Car Price Prediction](https://github.com/Sharkytony/Used-Car-Price-Prediction-Project)
+- 🔭 I’m currently working on [Credit Risk Assesment](https://github.com/Sharkytony/Credit_Risk_Assement_Project)
 
 - 🌱 I’m currently learning Cloud computing **AWS**
 
