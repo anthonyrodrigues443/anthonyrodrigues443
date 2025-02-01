@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Rodrigues</h1>
 <h3 align="center">An AI,ML and Data Science enthusiast</h3>
 
-- 🔭 I’m currently working on [Credit Risk Assesment](https://github.com/Sharkytony/Credit_Risk_Assement_Project)
+- 🔭 I’m currently working on [Credit Card Customer Segmentation](https://github.com/anthonyrodrigues443/Credit-Card-Customer-Segmentation)
 
 - 🌱 I’m currently learning Cloud computing **AWS**
 
