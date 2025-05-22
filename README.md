@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anthony Rodrigues</h1>
-<h3 align="center">An AI,ML and Data Science enthusiast</h3>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Anthony Rodrigues</h1>
+
+<h3 align="center"> 🤖AI and ML engineering student with a strong interest in building smart and practical solutions.</h3>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=AI+%26+ML+Engineering+Student+%7C+Data+Science+Enthusiast;Building+smart+solutions+with+AI+and+ML;Exploring+insights+from+data.;Learning%2C+Experimenting%2C+Innovating.;Focused+on+real-world+applications+of+Data+Science." alt="Typing SVG" />
+</div>
+
+
 
 - 🔭 I’m currently working on [Email-Spam-Classification](https://github.com/anthonyrodrigues443/Email-Spam-Classification)
 
