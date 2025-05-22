@@ -16,14 +16,6 @@
 - View my <a target="_blank" href="https://drive.google.com/file/d/1iU9Ad4vrtaGPMRWLOJZSSRQmbMWgiidi/view?usp=drive_link"><b>Resume</b></a>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:anthonyrodrigues443@gmail.com">Email</a></b>
 - <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=flat-square&color=000000" alt="Profile views" />
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyrodrigues443" height="30" width="40" /></a>
-<a href="https://kaggle.com/sharktony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharktony" height="30" width="40" /></a>
-</p>
-
 <br>
 
 ---
