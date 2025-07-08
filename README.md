@@ -9,7 +9,7 @@
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyrodrigues443&theme=2077" height="200em"  />
 
 - 🔭 Currently working on <a target="_blank" href="https://github.com/anthonyrodrigues443/SwasthAI-Multi-Agent-Intelligent-Healthcare-Diagnostic-and-Advisory-System"><b>SwasthAI - Multi Agent Intelligent Healthcare Diagnostic and Advisory System</b></a>
-- 👯 Looking to collaborate on <a target="_blank" href="https://github.com/anthonyrodrigues443/Smart_glasses_project"><b>Smart Glasses Project</b></a>
+- 👯 Looking to collaborate on <a target="_blank" href="https://github.com/anthonyrodrigues443/RAG-Noah-Multi-Modal-LLM-Assistant"><b>RAG-Noah - Multi-Modal LLM Assistant 🤖</b></a>
 - 🌱 Learning Cloud computing <b>AWS</b>
 - 🤝 Seeking assistance with <a target="_blank" href="https://github.com/anthonyrodrigues443/Smart_glasses_project"><b>processing and displaying client webcam frames in streamlit</b></a>
 - 💬 Ask me about <b>AI and Data Science</b>.
