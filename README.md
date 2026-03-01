@@ -13,7 +13,7 @@
 - 🌱 Learning Cloud computing <b>AWS</b>
 - 🤝 Seeking assistance with <a target="_blank" href="https://github.com/anthonyrodrigues443/Smart_glasses_project"><b>processing and displaying client webcam frames in streamlit</b></a>
 - 💬 Ask me about <b>AI and Data Science</b>.
-- View my <a target="_blank" href="https://drive.google.com/file/d/1HUfTXhK-3Sqf5NL_DXbLzwphF6vKrwcV/view?usp=sharing"><b>Resume</b></a>
+- View my <a target="_blank" href="https://drive.google.com/file/d/1ZRjLjk-h8DamBCQ9mfD9ETSNH19p6ARv/view"><b>Resume</b></a>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:anthonyrodrigues443@gmail.com">Email</a></b>
 - <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=flat-square&color=000000" alt="Profile views" />
 <br>
