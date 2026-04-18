@@ -50,7 +50,7 @@ const anthony = {
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="AI coder" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="AI neural network" width="100%"/>
 
 </td>
 </tr>
