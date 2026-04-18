@@ -48,10 +48,8 @@ const anthony = {
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="AI workstation" width="100%"/>
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="AI coder" width="100%"/>
 
 </td>
