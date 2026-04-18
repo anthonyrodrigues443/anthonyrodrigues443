@@ -6,7 +6,7 @@
 <!-- ============== TAGLINE TYPING SVG ============== -->
 <div align="center">
   <a href="https://github.com/anthonyrodrigues443">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6E4AFF&center=true&vCenter=true&width=720&height=46&lines=AI+%2F+ML+Engineer+%40+Keeper+Dating;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+GNNs;Shipping+end-to-end+ML+from+research+to+production;Turning+messy+data+into+real-world+impact." alt="typing tagline"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=46&lines=AI+%2F+ML+Engineer+%40+Keeper+Dating;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+GNNs;Shipping+end-to-end+ML+from+research+to+production;Turning+messy+data+into+real-world+impact." alt="typing tagline"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
   <a href="https://drive.google.com/file/d/1ZRjLjk-h8DamBCQ9mfD9ETSNH19p6ARv/view"><img src="https://img.shields.io/badge/Résumé-online-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
   <a href="https://rag-noah.streamlit.app/"><img src="https://img.shields.io/badge/Flagship-RAG--Noah-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="RAG-Noah"></a>
   <a href="https://linkedin.com/in/anthonyrodrigues443"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=for-the-badge&color=6E4AFF&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <br>
@@ -48,9 +48,9 @@ const anthony = {
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyrodrigues443&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=6E4AFF&text_color=c9d1d9&count_private=true" alt="Anthony's GitHub stats" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="AI working" width="88%"/>
 
 </td>
 </tr>
@@ -76,13 +76,13 @@ const anthony = {
       <h4>⚖️&nbsp; <a href="https://github.com/anthonyrodrigues443/Legal-Contract-Analyzer">Legal Contract Analyzer</a></h4>
       NER-based clause extraction and risk scoring from legal contracts using transformer models on the CUAD dataset.
       <br><br>
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/CUAD-6E4AFF?style=flat-square">
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/CUAD-10B981?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🧬&nbsp; <a href="https://github.com/anthonyrodrigues443/Drug-Molecule-Property-Prediction">Drug Molecule Property Prediction</a></h4>
       Predicting molecular properties for drug discovery using Graph Neural Networks and domain-specific chemical features.
       <br><br>
-      <img src="https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/GNNs-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RDKit-008B8B?style=flat-square">
+      <img src="https://img.shields.io/badge/PyG-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/GNNs-1E40AF?style=flat-square"> <img src="https://img.shields.io/badge/RDKit-008B8B?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ const anthony = {
       <h4>🏥&nbsp; <a href="https://github.com/anthonyrodrigues443/Healthcare-Readmission-Predictor">Healthcare Readmission Predictor</a></h4>
       Predicts 30-day hospital readmission risk from patient records with SHAP-based clinical decision support.
       <br><br>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SHAP-6E4AFF?style=flat-square">
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SHAP-F59E0B?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🔍&nbsp; <a href="https://github.com/anthonyrodrigues443/RAG-Pipeline-Optimizer">RAG Pipeline Optimizer</a></h4>
@@ -110,7 +110,7 @@ const anthony = {
       <h4>🌾&nbsp; <a href="https://github.com/anthonyrodrigues443/AgriWise-Multi-Agent-Agricultural-Assistant-for-Crop-Advisory-and-Disease-Detection-System">AgriWise — Multi-Agent Agricultural Assistant</a></h4>
       Multi-agent system that recommends crops via RAG over research papers and detects plant diseases with CV models.
       <br><br>
-      <img src="https://img.shields.io/badge/Agents-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square">
+      <img src="https://img.shields.io/badge/Agents-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -118,13 +118,13 @@ const anthony = {
       <h4>🦾&nbsp; <a href="https://github.com/anthonyrodrigues443/Robotic-Grasp-Prediction">Robotic Grasp Prediction</a></h4>
       Predicts optimal robotic grasp points from depth images using deep learning with physics-informed quality scoring.
       <br><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Depth%20Imaging-4B8BBE?style=flat-square"> <img src="https://img.shields.io/badge/Robotics-6E4AFF?style=flat-square">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Depth%20Imaging-4B8BBE?style=flat-square"> <img src="https://img.shields.io/badge/Robotics-64748B?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🎭&nbsp; <a href="https://github.com/anthonyrodrigues443/Deepfake-Audio-Detection">Deepfake Audio Detection</a></h4>
       Detects AI-generated speech using CNN-based spectrogram analysis and forensic audio features.
       <br><br>
-      <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square"> <img src="https://img.shields.io/badge/Librosa-FF6B35?style=flat-square"> <img src="https://img.shields.io/badge/Audio%20Forensics-6E4AFF?style=flat-square">
+      <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square"> <img src="https://img.shields.io/badge/Librosa-FF6B35?style=flat-square"> <img src="https://img.shields.io/badge/Audio%20Forensics-D946EF?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -132,13 +132,13 @@ const anthony = {
       <h4>💳&nbsp; <a href="https://github.com/anthonyrodrigues443/Fraud-Detection-System">Fraud Detection System</a></h4>
       Real-time financial transaction fraud detection using hybrid supervised and unsupervised methods on imbalanced data.
       <br><br>
-      <img src="https://img.shields.io/badge/Isolation%20Forest-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SMOTE-FF4B6E?style=flat-square">
+      <img src="https://img.shields.io/badge/Isolation%20Forest-22C55E?style=flat-square"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SMOTE-FF4B6E?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🩺&nbsp; <a href="https://github.com/anthonyrodrigues443/SwasthAI-Multi-Agent-Intelligent-Healthcare-Diagnostic-and-Advisory-System">SwasthAI — Healthcare Diagnostic System</a></h4>
       Interoperable AI agents managing patient assessment, diagnosis, imaging, and clinical decision support.
       <br><br>
-      <img src="https://img.shields.io/badge/Agents-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/Medical%20Imaging-00C9A7?style=flat-square">
+      <img src="https://img.shields.io/badge/Agents-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/Medical%20Imaging-14B8A6?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -146,13 +146,13 @@ const anthony = {
       <h4>🎬&nbsp; <a href="https://github.com/anthonyrodrigues443/CineSemantics-Transformer-Powered-Movie-Recommendation-Engine">CineSemantics</a></h4>
       Content-based recommender using transformer embeddings (BERT/SBERT) on titles, descriptions, and tags.
       <br><br>
-      <img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/SBERT-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/Recsys-FF4B6E?style=flat-square">
+      <img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/SBERT-F59E0B?style=flat-square"> <img src="https://img.shields.io/badge/Recsys-FF4B6E?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🛒&nbsp; <a href="https://github.com/anthonyrodrigues443/Visual-Product-Search-Engine">Visual Product Search Engine</a></h4>
       Image-based product similarity search for e-commerce using embedding models and vector retrieval.
       <br><br>
-      <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square"> <img src="https://img.shields.io/badge/Vector%20Search-6E4AFF?style=flat-square">
+      <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square"> <img src="https://img.shields.io/badge/Vector%20Search-0EA5E9?style=flat-square">
     </td>
   </tr>
 </table>
@@ -198,17 +198,11 @@ const anthony = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="divider"/>
 </div>
 
-<!-- ============== STATS / STREAK / LANGS ============== -->
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+<!-- ============== STREAK ============== -->
+<h2 align="center">🔥 &nbsp;Commit Streak</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anthonyrodrigues443&theme=tokyonight&hide_border=true&background=0D1117&ring=6E4AFF&fire=FF4B6E&currStreakLabel=9F7AEA"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrodrigues443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=c9d1d9&langs_count=8"/>
-</p>
-
-<!-- ============== SUMMARY CARD ============== -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyrodrigues443&theme=tokyonight" alt="Profile details" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anthonyrodrigues443&theme=radical&hide_border=true&background=0D1117&stroke=FF4B6E&ring=FF8E00&fire=FF4B6E&currStreakLabel=00D9FF&sideLabels=c9d1d9&sideNums=c9d1d9&dates=a3a3a3&currStreakNum=ffffff&longestStreakNum=ffffff" alt="GitHub streak"/>
 </p>
 
 <br>
