@@ -1,60 +1,275 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Anthony Rodrigues</h1>
+<!-- ============== HEADER BANNER ============== -->
+<a href="https://github.com/anthonyrodrigues443">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=220&section=header&text=Anthony%20Rodrigues&fontSize=58&fontAlign=50&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20GNNs%20%C2%B7%20Applied%20ML&descAlign=50&descAlignY=60&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Anthony Rodrigues header"/>
+</a>
 
-<h3 align="center"> 🤖AI and ML engineering student with a strong interest in building smart and practical solutions.</h3>
+<!-- ============== TAGLINE TYPING SVG ============== -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=AI+%26+ML+Engineering+Student+%7C+Data+Science+Enthusiast;Building+smart+solutions+with+AI+and+ML;Exploring+insights+from+data.;Learning%2C+Experimenting%2C+Innovating.;Focused+on+real-world+applications+of+Data+Science." alt="Typing SVG" />
+  <a href="https://github.com/anthonyrodrigues443">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6E4AFF&center=true&vCenter=true&width=720&height=46&lines=AI+%2F+ML+Engineer+%40+Keeper+Dating;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+GNNs;Shipping+end-to-end+ML+from+research+to+production;Turning+messy+data+into+real-world+impact." alt="typing tagline"/>
+  </a>
 </div>
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyrodrigues443&theme=2077" height="200em"  />
-
-- 🔭 Currently working on <a target="_blank" href="https://github.com/anthonyrodrigues443/CineSemantics-Transformer-Powered-Movie-Recommendation-Engine"><b>CineSemantics - Transformer Powered Movie Recommendation Engine</b></a>
-- 👯 Looking to collaborate on <a target="_blank" href="https://github.com/anthonyrodrigues443/RAG-Noah-Multi-Modal-LLM-Assistant"><b>RAG-Noah - Multi-Modal LLM Assistant 🤖</b></a>
-- 🌱 Learning Cloud computing <b>AWS</b>
-- 🤝 Seeking assistance with <a target="_blank" href="https://github.com/anthonyrodrigues443/Smart_glasses_project"><b>processing and displaying client webcam frames in streamlit</b></a>
-- 💬 Ask me about <b>AI and Data Science</b>.
-- View my <a target="_blank" href="https://drive.google.com/file/d/1ZRjLjk-h8DamBCQ9mfD9ETSNH19p6ARv/view"><b>Resume</b></a>
-- 📫 Reach me at: <b><a target="_blank" href="mailto:anthonyrodrigues443@gmail.com">Email</a></b>
-- <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=flat-square&color=000000" alt="Profile views" />
 <br>
 
----
+<!-- ============== QUICK BADGES ============== -->
+<p align="center">
+  <a href="https://github.com/Keeper-Dating"><img src="https://img.shields.io/badge/AI%2FML%20Engineer%20%40-Keeper%20Dating-FF4B6E?style=for-the-badge&logo=heartbeat&logoColor=white" alt="Keeper Dating"></a>
+  <img src="https://img.shields.io/badge/Mumbai-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <a href="https://drive.google.com/file/d/1ZRjLjk-h8DamBCQ9mfD9ETSNH19p6ARv/view"><img src="https://img.shields.io/badge/Résumé-online-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://rag-noah.streamlit.app/"><img src="https://img.shields.io/badge/Flagship-RAG--Noah-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="RAG-Noah"></a>
+  <a href="https://linkedin.com/in/anthonyrodrigues443"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=anthonyrodrigues443&style=for-the-badge&color=6E4AFF&label=PROFILE+VIEWS" alt="Profile views">
+</p>
 
-<h3 align="center">Connect with me 🤝</h3>
+<br>
+
+<!-- ============== WHOAMI CODE BLOCK + STATS ============== -->
+<table align="center">
+<tr>
+<td width="58%" valign="top">
+
+```ts
+const anthony = {
+  role:        "AI / ML Engineer",
+  company:     "@Keeper-Dating",
+  location:    "Mumbai, India 🇮🇳",
+  focus:       ["LLMs", "RAG", "GNNs", "Multi-Agent"],
+  flagship:    "RAG-Noah · Multi-Modal LLM Assistant",
+  latest:      [
+                 "Legal-Contract-Analyzer",
+                 "Drug-Molecule-Property-Prediction",
+                 "RAG-Pipeline-Optimizer",
+               ],
+  learning:    ["MLOps", "AWS", "Distributed Serving"],
+  askMeAbout:  "LLMs · RAG · Agents · Applied ML",
+  reach:       "anthonyrodrigues443@gmail.com",
+};
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyrodrigues443&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=6E4AFF&text_color=c9d1d9&count_private=true" alt="Anthony's GitHub stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ============== DIVIDER ============== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="divider"/>
+</div>
+
+<!-- ============== FEATURED PROJECTS ============== -->
+<h2 align="center">🚀 &nbsp;Featured Projects</h2>
+
+<p align="center"><i>A curated selection — see all <a href="https://github.com/anthonyrodrigues443?tab=repositories">29 public repositories →</a></i></p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚖️&nbsp; <a href="https://github.com/anthonyrodrigues443/Legal-Contract-Analyzer">Legal Contract Analyzer</a></h4>
+      NER-based clause extraction and risk scoring from legal contracts using transformer models on the CUAD dataset.
+      <br><br>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/CUAD-6E4AFF?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧬&nbsp; <a href="https://github.com/anthonyrodrigues443/Drug-Molecule-Property-Prediction">Drug Molecule Property Prediction</a></h4>
+      Predicting molecular properties for drug discovery using Graph Neural Networks and domain-specific chemical features.
+      <br><br>
+      <img src="https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/GNNs-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RDKit-008B8B?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥&nbsp; <a href="https://github.com/anthonyrodrigues443/Healthcare-Readmission-Predictor">Healthcare Readmission Predictor</a></h4>
+      Predicts 30-day hospital readmission risk from patient records with SHAP-based clinical decision support.
+      <br><br>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SHAP-6E4AFF?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍&nbsp; <a href="https://github.com/anthonyrodrigues443/RAG-Pipeline-Optimizer">RAG Pipeline Optimizer</a></h4>
+      Systematic evaluation of RAG configurations across chunking, embeddings, retrieval, re-ranking, and generation with RAGAS benchmarking.
+      <br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/RAGAS-FF6B35?style=flat-square"> <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖&nbsp; <a href="https://github.com/anthonyrodrigues443/RAG-Noah-Multi-Modal-LLM-Assistant">RAG-Noah — Multi-Modal LLM Assistant</a></h4>
+      Multi-modal LLM assistant combining RAG, reasoning, and real-time computer vision — designed to run on smart glasses.
+      <br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌾&nbsp; <a href="https://github.com/anthonyrodrigues443/AgriWise-Multi-Agent-Agricultural-Assistant-for-Crop-Advisory-and-Disease-Detection-System">AgriWise — Multi-Agent Agricultural Assistant</a></h4>
+      Multi-agent system that recommends crops via RAG over research papers and detects plant diseases with CV models.
+      <br><br>
+      <img src="https://img.shields.io/badge/Agents-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🦾&nbsp; <a href="https://github.com/anthonyrodrigues443/Robotic-Grasp-Prediction">Robotic Grasp Prediction</a></h4>
+      Predicts optimal robotic grasp points from depth images using deep learning with physics-informed quality scoring.
+      <br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Depth%20Imaging-4B8BBE?style=flat-square"> <img src="https://img.shields.io/badge/Robotics-6E4AFF?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎭&nbsp; <a href="https://github.com/anthonyrodrigues443/Deepfake-Audio-Detection">Deepfake Audio Detection</a></h4>
+      Detects AI-generated speech using CNN-based spectrogram analysis and forensic audio features.
+      <br><br>
+      <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square"> <img src="https://img.shields.io/badge/Librosa-FF6B35?style=flat-square"> <img src="https://img.shields.io/badge/Audio%20Forensics-6E4AFF?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💳&nbsp; <a href="https://github.com/anthonyrodrigues443/Fraud-Detection-System">Fraud Detection System</a></h4>
+      Real-time financial transaction fraud detection using hybrid supervised and unsupervised methods on imbalanced data.
+      <br><br>
+      <img src="https://img.shields.io/badge/Isolation%20Forest-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SMOTE-FF4B6E?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🩺&nbsp; <a href="https://github.com/anthonyrodrigues443/SwasthAI-Multi-Agent-Intelligent-Healthcare-Diagnostic-and-Advisory-System">SwasthAI — Healthcare Diagnostic System</a></h4>
+      Interoperable AI agents managing patient assessment, diagnosis, imaging, and clinical decision support.
+      <br><br>
+      <img src="https://img.shields.io/badge/Agents-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/Medical%20Imaging-00C9A7?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬&nbsp; <a href="https://github.com/anthonyrodrigues443/CineSemantics-Transformer-Powered-Movie-Recommendation-Engine">CineSemantics</a></h4>
+      Content-based recommender using transformer embeddings (BERT/SBERT) on titles, descriptions, and tags.
+      <br><br>
+      <img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/SBERT-6E4AFF?style=flat-square"> <img src="https://img.shields.io/badge/Recsys-FF4B6E?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒&nbsp; <a href="https://github.com/anthonyrodrigues443/Visual-Product-Search-Engine">Visual Product Search Engine</a></h4>
+      Image-based product similarity search for e-commerce using embedding models and vector retrieval.
+      <br><br>
+      <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square"> <img src="https://img.shields.io/badge/Vector%20Search-6E4AFF?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ============== DIVIDER ============== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="divider"/>
+</div>
+
+<!-- ============== TECH STACK (BIG ICONS, DEVICON-STYLE) ============== -->
+<h2 align="center">🧰 &nbsp;Tech Stack</h2>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" title="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+</p>
+
+<p align="center"><b>AI / ML / Data</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" title="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" title="TensorFlow"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50" title="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" height="50" title="HuggingFace"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" title="OpenCV"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" title="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" title="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" title="Jupyter"/>
+</p>
+
+<p align="center"><b>Tools & Infra</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50" title="AWS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" title="Flask" style="background:#fff;border-radius:8px;padding:3px"/>&nbsp;&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50" title="Streamlit"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" title="Redis"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="VS Code"/>
+</p>
+
+<br>
+
+<!-- ============== DIVIDER ============== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="divider"/>
+</div>
+
+<!-- ============== STATS / STREAK / LANGS ============== -->
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anthonyrodrigues443&theme=tokyonight&hide_border=true&background=0D1117&ring=6E4AFF&fire=FF4B6E&currStreakLabel=9F7AEA"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrodrigues443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=c9d1d9&langs_count=8"/>
+</p>
+
+<!-- ============== ACTIVITY GRAPH ============== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyrodrigues443&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9F7AEA&line=6E4AFF&point=FF4B6E&area=true&area_color=6E4AFF" alt="Activity graph" width="98%"/>
+</p>
+
+<!-- ============== CONTRIBUTION SNAKE ============== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonyrodrigues443/anthonyrodrigues443/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyrodrigues443/anthonyrodrigues443/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/anthonyrodrigues443/anthonyrodrigues443/output/github-contribution-grid-snake.svg" width="98%"/>
+  </picture>
+</p>
+
+<!-- ============== TROPHIES ============== -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anthonyrodrigues443&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub trophies" width="98%"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ============== DIVIDER ============== -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="divider"/>
+</div>
+
+<!-- ============== CONNECT ============== -->
+<h2 align="center">🤝 &nbsp;Let's Connect</h2>
+
 <p align="center">
   <a href="mailto:anthonyrodrigues443@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-anthonyrodrigues443@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://linkedin.com/in/anthonyrodrigues443" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-anthonyrodrigues443-005B8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://rag-noah.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/anthonyrodrigues443" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://buymeacoffee.com/anthonyrodrigues443" target="_blank">
-    <img src="https://img.shields.io/badge/buymeacoffee-anthonyrodrigues443-FFFF00?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" alt="buymeacoffee">
-  </a>&nbsp;  
+    <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="BuyMeACoffee">
+  </a>
 </p>
 
+<br>
 
----
+<!-- ============== FOOTER BANNER ============== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=140&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="footer" width="100%"/>
 
-<h3 align="center">Technologies Skills 🛠️</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=deeplearning&logoColor=white" alt="Deep Learning">
-<img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=nlp&logoColor=white" alt="Natural Language Processing">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Computer Vision">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
-</p>
-
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anthonyrodrigues443&theme=codestackr" alt="GitHub Streak" />
-</a>
-</p>
+<p align="center"><sub><i>⚡ Powered by caffeine, curiosity, and a lot of <code>.ipynb</code> files.</i></sub></p>
