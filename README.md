@@ -206,14 +206,8 @@ const anthony = {
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyrodrigues443&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=c9d1d9&langs_count=8"/>
 </p>
 
-<!-- ============== ACTIVITY GRAPH ============== -->
+<!-- ============== SUMMARY CARD ============== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyrodrigues443&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9F7AEA&line=6E4AFF&point=FF4B6E&area=true&area_color=6E4AFF" alt="Activity graph" width="98%"/>
-</p>
-
-<!-- ============== SUMMARY CARDS ============== -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyrodrigues443&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyrodrigues443&theme=tokyonight" alt="Profile details" height="170"/>
 </p>
 
