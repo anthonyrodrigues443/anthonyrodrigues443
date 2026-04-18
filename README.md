@@ -213,10 +213,6 @@ const anthony = {
 
 <!-- ============== SUMMARY CARDS ============== -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anthonyrodrigues443&theme=tokyonight" alt="Top repos by language" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anthonyrodrigues443&theme=tokyonight" alt="Most committed languages" height="170"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyrodrigues443&theme=tokyonight&utcOffset=5.5" alt="Productive time" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyrodrigues443&theme=tokyonight" alt="Profile details" height="170"/>
 </p>
