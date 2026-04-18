@@ -224,8 +224,8 @@ const anthony = {
   <a href="https://linkedin.com/in/anthonyrodrigues443" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://rag-noah.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio">
+  <a href="https://anthonyrodrigues443.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/anthonyrodrigues443" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
