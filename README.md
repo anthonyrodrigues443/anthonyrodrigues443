@@ -66,7 +66,7 @@ const anthony = {
 <!-- ============== FEATURED PROJECTS ============== -->
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
-<p align="center"><i>A curated selection — see all <a href="https://github.com/anthonyrodrigues443?tab=repositories">29 public repositories →</a></i></p>
+<p align="center"><i>A curated selection — see all <a href="https://github.com/anthonyrodrigues443?tab=repositories">31 public repositories →</a></i></p>
 
 <br>
 
@@ -74,9 +74,9 @@ const anthony = {
   <tr>
     <td width="50%" valign="top">
       <h4>⚖️&nbsp; <a href="https://github.com/anthonyrodrigues443/Legal-Contract-Analyzer">Legal Contract Analyzer</a></h4>
-      NER-based clause extraction and risk scoring from legal contracts using transformer models on the CUAD dataset.
+      Multi-label clause classification on real commercial contracts (CUAD). LightGBM + LR blend on TF-IDF beats published RoBERTa-large (0.716 vs 0.650 macro-F1) at 12ms per contract.
       <br><br>
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/CUAD-10B981?style=flat-square">
+      <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"> <img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=flat-square"> <img src="https://img.shields.io/badge/CUAD-10B981?style=flat-square"> <img src="https://img.shields.io/badge/Beats%20RoBERTa--L-FF4B6E?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4>🧬&nbsp; <a href="https://github.com/anthonyrodrigues443/Drug-Molecule-Property-Prediction">Drug Molecule Property Prediction</a></h4>
@@ -102,57 +102,40 @@ const anthony = {
   <tr>
     <td width="50%" valign="top">
       <h4>🤖&nbsp; <a href="https://github.com/anthonyrodrigues443/RAG-Noah-Multi-Modal-LLM-Assistant">RAG-Noah — Multi-Modal LLM Assistant</a></h4>
-      Multi-modal LLM assistant combining RAG, reasoning, and real-time computer vision — designed to run on smart glasses.
+      Multi-modal RAG assistant with document Q&amp;A and real-time computer vision (object detection + hand tracking). Multi-LLM pipeline via GROQ (Gemma for query refinement + LLaMA 70B for generation). Live Streamlit demo.
       <br><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌾&nbsp; <a href="https://github.com/anthonyrodrigues443/AgriWise-Multi-Agent-Agricultural-Assistant-for-Crop-Advisory-and-Disease-Detection-System">AgriWise — Multi-Agent Agricultural Assistant</a></h4>
-      Multi-agent system that recommends crops via RAG over research papers and detects plant diseases with CV models.
-      <br><br>
-      <img src="https://img.shields.io/badge/Agents-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🦾&nbsp; <a href="https://github.com/anthonyrodrigues443/Robotic-Grasp-Prediction">Robotic Grasp Prediction</a></h4>
-      Predicts optimal robotic grasp points from depth images using deep learning with physics-informed quality scoring.
-      <br><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Depth%20Imaging-4B8BBE?style=flat-square"> <img src="https://img.shields.io/badge/Robotics-64748B?style=flat-square">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/GROQ-F55036?style=flat-square"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
     </td>
     <td width="50%" valign="top">
       <h4>🎭&nbsp; <a href="https://github.com/anthonyrodrigues443/Deepfake-Audio-Detection">Deepfake Audio Detection</a></h4>
-      Detects AI-generated speech using CNN-based spectrogram analysis and forensic audio features.
+      Synthetic-speech detection benchmarked against ASVspoof literature. mel-CNN + Wav2Vec2 embeddings + classical forensic features (MFCC + jitter + shimmer). 2.41% EER in-domain. 15.2ms p50 production latency.
       <br><br>
-      <img src="https://img.shields.io/badge/CNN-00C9A7?style=flat-square"> <img src="https://img.shields.io/badge/Librosa-FF6B35?style=flat-square"> <img src="https://img.shields.io/badge/Audio%20Forensics-D946EF?style=flat-square">
+      <img src="https://img.shields.io/badge/Wav2Vec2-FF6F00?style=flat-square"> <img src="https://img.shields.io/badge/mel--CNN-00C9A7?style=flat-square"> <img src="https://img.shields.io/badge/EER%202.41%25-22C55E?style=flat-square"> <img src="https://img.shields.io/badge/ASVspoof-D946EF?style=flat-square">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💳&nbsp; <a href="https://github.com/anthonyrodrigues443/Fraud-Detection-System">Fraud Detection System</a></h4>
-      Real-time financial transaction fraud detection using hybrid supervised and unsupervised methods on imbalanced data.
+      Hybrid supervised + unsupervised fraud detection on highly imbalanced data (IsolationForest + XGBoost ensemble + SMOTE comparison study).
       <br><br>
       <img src="https://img.shields.io/badge/Isolation%20Forest-22C55E?style=flat-square"> <img src="https://img.shields.io/badge/XGBoost-0080FF?style=flat-square"> <img src="https://img.shields.io/badge/SMOTE-FF4B6E?style=flat-square">
     </td>
-    <td width="50%" valign="top">
-      <h4>🩺&nbsp; <a href="https://github.com/anthonyrodrigues443/SwasthAI-Multi-Agent-Intelligent-Healthcare-Diagnostic-and-Advisory-System">SwasthAI — Healthcare Diagnostic System</a></h4>
-      Interoperable AI agents managing patient assessment, diagnosis, imaging, and clinical decision support.
-      <br><br>
-      <img src="https://img.shields.io/badge/Agents-7C3AED?style=flat-square"> <img src="https://img.shields.io/badge/RAG-FF4B6E?style=flat-square"> <img src="https://img.shields.io/badge/Medical%20Imaging-14B8A6?style=flat-square">
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🎬&nbsp; <a href="https://github.com/anthonyrodrigues443/CineSemantics-Transformer-Powered-Movie-Recommendation-Engine">CineSemantics</a></h4>
       Content-based recommender using transformer embeddings (BERT/SBERT) on titles, descriptions, and tags.
       <br><br>
       <img src="https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/SBERT-F59E0B?style=flat-square"> <img src="https://img.shields.io/badge/Recsys-FF4B6E?style=flat-square">
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🛒&nbsp; <a href="https://github.com/anthonyrodrigues443/Visual-Product-Search-Engine">Visual Product Search Engine</a></h4>
       Image-based product similarity search for e-commerce using embedding models and vector retrieval.
       <br><br>
       <img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square"> <img src="https://img.shields.io/badge/Vector%20Search-0EA5E9?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <!-- next slot: Robotic Grasp Prediction (ships end of solo-builder Week 8); future iterate launch -->
     </td>
   </tr>
 </table>
