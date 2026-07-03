@@ -19,7 +19,7 @@ Every agent-observability dashboard alerts on context usage. I built a causal si
 
 ### [AI-Agent-Conversation-Quality-Scorer](https://github.com/anthonyrodrigues443/AI-Agent-Conversation-Quality-Scorer)
 
-Hallucination detection on HaluEval-QA. **A 13-feature CPU tree beats zero-shot Claude Opus 4.8, Claude Haiku 4.5 and Codex GPT-5.5** at catching ungrounded answers (**0.9808 length-matched macro-F1**, about $0.0001 per 1k messages). The twist: ablation shows it is a 1-feature model in disguise, and the one slice it cannot catch is exactly where frontier models win.
+Hallucination detection on HaluEval-QA. **A 13-feature CPU tree beats zero-shot Claude Opus 4.8, Claude Haiku 4.5 and Codex GPT-5.5** at catching ungrounded answers (**0.9808 length-matched macro-F1**, about $0.0001 per 1k messages). The twist: ablation shows it is a 1-feature model in disguise, and the one slice it cannot catch is exactly where frontier models win. The pipeline is ported from the research notebooks into src/ and reproduces the recorded numbers exactly.
 
 </td>
 </tr>
@@ -40,6 +40,8 @@ An autonomous agent that proposes, runs, scores and remembers ML experiments, so
 </td>
 </tr>
 </table>
+
+All four run pytest + ruff CI on every push: 47, 48, 45, and 304 tests, all green.
 
 ## Earlier work
 
